@@ -64,3 +64,7 @@ Di Program ini terdiri dari beberapa class :
 
 # Dokumentasi
 ![](https://github.com/nipqt/TP5DPBO2025C2/blob/main/Screenshots/record.gif)
+![](https://github.com/nipqt/TP5DPBO2025C2/blob/main/Screenshots/1.jpeg)
+![](https://github.com/nipqt/TP5DPBO2025C2/blob/main/Screenshots/2.jpeg)
+![](https://github.com/nipqt/TP5DPBO2025C2/blob/main/Screenshots/3.jpeg)
+![](https://github.com/nipqt/TP5DPBO2025C2/blob/main/Screenshots/4.jpeg)
