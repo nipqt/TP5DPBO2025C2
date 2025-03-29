@@ -63,4 +63,4 @@ Di Program ini terdiri dari beberapa class :
 - Saat kita melakukan delete, akan muncul konfirmasi apakah data ini ingin dihapus atau tidak
 
 # Dokumentasi
-![](https://github.com/nipqt/TP4DPBO2025C2/blob/main/Screenshots/2025-03-23%2003-45-11.gif)
+![](https://github.com/nipqt/TP5DPBO2025C2/blob/main/Screenshots/record.gif)
